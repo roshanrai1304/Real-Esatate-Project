@@ -1,0 +1,13 @@
+Mean and Standard deviation for rmse/ Ouput of different models
+
+1. Decision Tree : 
+Mean : 4.301397348484985
+Standard deviation : 0.8749137918270945
+
+2. Linear Regression :
+Mean : 5.028097880386643
+Standard deviation : 1.0584906244415124
+
+3. RandomForestRegressor :
+Mean : 3.3148010794056715
+Standard deviation : 0.7629439372254292
